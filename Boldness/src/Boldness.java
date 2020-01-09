@@ -14,6 +14,11 @@ public class Boldness
 				System.out.println("No! be BOLDER!!");
 
 			}
+
+public static void bolder() {
+	
+}
+
 		public void meetPerson()
 		{
 			Scanner userInput = new Scanner(System.in);
@@ -23,5 +28,6 @@ public class Boldness
 			int number = 10;
 			int number1 = 1;
 		}
+
 
 	}
