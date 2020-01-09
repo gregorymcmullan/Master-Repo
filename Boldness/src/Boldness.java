@@ -13,6 +13,7 @@ public class Boldness
 
 			}
 public static void bolder() {
-	
+	System.out.println("being bold is a great and massive strength");
+	System.out.println("I like it and it is fun");
 }
 	}
