@@ -20,6 +20,7 @@ public class Boldness
 			String name = userInput.nextLine();
 			System.out.println("Hello, " + name + "! I hope your day is going swimmingly!");
 			int number = 10;
+			int number1 = 1;
 		}
 
 	}
