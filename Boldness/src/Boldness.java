@@ -12,5 +12,7 @@ public class Boldness
 
 
 			}
-
+public static void bolder() {
+	
+}
 	}
